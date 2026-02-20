@@ -1,14 +1,14 @@
 {
   "name": "EaglerCraft Ultra",
   "short_name": "EaglerCraftU",
-  "start_url": "/index.html",
-  "display": "fullscreen",
+  "start_url": ".",
+  "display": "standalone", 
   "background_color": "#000000",
   "theme_color": "#000000",
   "orientation": "landscape",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/LAX1DUDE/eaglercraft-1.8/main/logo.png",
+      "src": "logo.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
