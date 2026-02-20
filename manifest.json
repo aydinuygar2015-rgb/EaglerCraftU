@@ -1,15 +1,14 @@
 {
   "name": "EaglerCraft Ultra",
   "short_name": "EaglerCraftU",
-  "start_url": ".",
-  "display": "standalone", 
+  "start_url": "./index.html",
+  "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
-  "orientation": "landscape",
   "icons": [
     {
       "src": "logo.png",
-      "sizes": "512x512",
+      "sizes": "1024x1024",
       "type": "image/png",
       "purpose": "any maskable"
     }
