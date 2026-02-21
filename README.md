@@ -1,2 +1,0 @@
-# EaglerCraftU
-EAGLERCRAFT ULTRA
